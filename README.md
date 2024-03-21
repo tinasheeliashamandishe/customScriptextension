@@ -1,4 +1,4 @@
-<h1>Configure Configure Custom script extensions</h1>
+<h1>Configure Custom script extensions</h1>
 
 <h2>Description</h2>
 This lab will Configure Custom script extensions. Extensions are great way to have applications installed when you VM is launched.<br />
